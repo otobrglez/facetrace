@@ -1,0 +1,5 @@
+.envrc
+.bsp/
+.idea/
+**/target
+test-data/*out.*
